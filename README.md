@@ -1,10 +1,10 @@
-# again_counter_through_bloc
+# Apps Created For Learning Bloc
 
-A new Flutter project.
+#1. Counter
+#2. Timer
 
 ## Getting Started
-
-Started Learnig flutter last week.
+#flutter_bloc
 
 Created one more app before, 
 but now focusing on architecture and efficient use of bloc
