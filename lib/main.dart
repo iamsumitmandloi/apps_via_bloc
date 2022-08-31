@@ -5,5 +5,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 void main() {
   Bloc.observer = CounterObserver();
-  runApp(const CounterApp());
+  // runApp(const CounterApp());
+  runApp(TimerApp());
 }
