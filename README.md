@@ -1,7 +1,7 @@
 # Apps Created For Learning Bloc
 
-#1. Counter
-#2. Timer
+##1. Counter
+##2. Timer
 
 ## Getting Started
 #flutter_bloc
